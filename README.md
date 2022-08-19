@@ -1,4 +1,4 @@
-# shopping-list
+# Shopping list
 - [ ] Satellite phone
 - [ ] Credit card termal
 - [ ] Motorola MC9090/MC9190 barcode scanner
