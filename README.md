@@ -22,3 +22,6 @@
 - [ ] Panasonic AG-500 TV
 - [ ] POS Terminal
 - [ ] Garmin GPS
+- [ ] Motorola WT4090
+- [ ] Thermal camera
+- [ ] Universal remote
