@@ -25,3 +25,4 @@
 - [ ] Motorola WT4090
 - [ ] Thermal camera
 - [ ] Universal remote
+- [ ] Apple newton
